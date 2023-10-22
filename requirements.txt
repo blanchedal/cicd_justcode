@@ -1,5 +1,4 @@
 asgiref==3.7.2
-awscrt==0.16.19
 Django==3.2.9
 numpy==1.25.1
 protobuf==4.23.4
